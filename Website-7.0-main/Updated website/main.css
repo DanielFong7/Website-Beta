@@ -3,6 +3,7 @@
 h1 {
     color: #1183d6;
     font-family: 'Anton', sans-serif;
+    font-size: 50px;
 }
 h5 {
     color: #1183d6;
@@ -13,6 +14,8 @@ p {
 }
 h6 {
     color: #1183d6;
+    font-size: x-large;
+    font-family: 'Anton', sans-serif;
 }
 
 div {
@@ -32,11 +35,13 @@ body {
 
 
 #firstSec {
-    margin-bottom: 4.5vw;
-    margin-top: 4.5vw;
     text-align: center;
     width: 100% !important;
     
+}
+#secondSec {
+    margin-bottom: 4.5vw;
+    text-align: center;
 }
 
 
