@@ -1,0 +1,73 @@
+
+
+h1 {
+    color: #1183d6;
+    font-family: 'Anton', sans-serif;
+}
+h5 {
+    color: #1183d6;
+}
+p {
+    color: #1183d6;
+    font-family: 'Shadows Into Light', cursive;
+}
+h6 {
+    color: #1183d6;
+}
+
+div {
+    display: block;
+}
+
+
+
+body {
+    background-size: cover;
+    background-image: url(images/orange.jpg);
+    background-repeat: no-repeat;
+    margin: 0;
+
+}
+
+
+
+#firstSec {
+    margin-bottom: 4.5vw;
+    margin-top: 4.5vw;
+    text-align: center;
+    width: 100% !important;
+    
+}
+
+
+
+
+
+ 
+
+.container {
+    min-height: calc(100vh - 70px);
+    justify-content: flex-start;
+    
+    margin-bottom: 0px;
+    
+    display: block;
+    
+    
+
+}
+
+
+
+.footer-container {
+    color: blue;
+    background: white;
+    font-size: 15px;
+    width: auto;
+    padding-right: 15px;
+    text-align: center;
+    }
+
+
+
+  
